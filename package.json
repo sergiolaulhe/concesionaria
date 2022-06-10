@@ -1,0 +1,19 @@
+{
+  "name": "concesionaria",
+  "version": "1.0.0",
+  "description": "Cierre de Modulo 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiolaulhe/concesionaria.git"
+  },
+  "author": "Sergio Laulhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiolaulhe/concesionaria/issues"
+  },
+  "homepage": "https://github.com/sergiolaulhe/concesionaria#readme"
+}
